@@ -1,0 +1,12 @@
+# ls -l > chapter2/lsoutput.txt
+
+total 12
+drwxr-xr-x 5 yucheb yucheb 4096 May 24 21:14 chapter1
+drwxr-xr-x 2 yucheb yucheb 4096 May 24 21:58 chapter2
+-rw-r--r-- 1 yucheb yucheb   30 May 24 21:52 README.md
+
+# ps >> chapter2/lsoutput.txt
+
+  PID TTY          TIME CMD
+15713 pts/0    00:00:00 bash
+18063 pts/0    00:00:00 ps

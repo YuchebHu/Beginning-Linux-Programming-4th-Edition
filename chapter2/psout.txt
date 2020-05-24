@@ -1,0 +1,5 @@
+ # ps > chapter2/psout.txt 
+  
+  PID TTY          TIME CMD
+15713 pts/0    00:00:00 bash
+18261 pts/0    00:00:00 ps

@@ -1,0 +1,6 @@
+# ps | sort > chapter2/psssout.out
+
+15713 pts/0    00:00:00 bash
+19306 pts/0    00:00:00 ps
+19307 pts/0    00:00:00 sort
+  PID TTY          TIME CMD
